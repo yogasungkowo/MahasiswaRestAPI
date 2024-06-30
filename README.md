@@ -68,4 +68,4 @@ This project was developed  by Group D in Integrative Programming Course:
 
   This project will not be finish without Learning Resource and we want to thank for 
 
-  [](https://www.youtube.com/watch?v=_lfsvZZWsXE)
+  [WebDevWithArtisan](https://www.youtube.com/watch?v=_lfsvZZWsXE)
